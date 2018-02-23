@@ -1,6 +1,11 @@
 # study
 
 #2018/02/23 fuel install
-Ubuntu bootstrap build has been skipped. Please build and activate bootstrap manually with CLI command `fuel-bootstrap build --activate`. While you don't activate any bootstrap - new nodes cannot be discovered and added to cluster. For more information please visit http://docs.openstack.org/developer/fuel-docs/userdocs/fuel-install-guide/bootstrap/bootstrap_troubleshoot.html
+Ubuntu bootstrap build has been skipped. Please build and activate bootstrap 
+manually with CLI command `fuel-bootstrap build --activate`. While you don't 
+activate any bootstrap - new nodes cannot be discovered and added to cluster. 
+For more information please visit 
+http://docs.openstack.org/developer/fuel-docs/userdocs/fuel-install-guide
+/bootstrap/bootstrap_troubleshoot.html
 
 fuel-bootstrap build --activate
